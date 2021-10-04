@@ -1,6 +1,6 @@
 # career start with LearnOn
 
-This project was metarial ui with [React js](https://github.com/facebook/create-react-app).
+This project was metarial ui with [React js](https://learn-on.netlify.app/).
 
 ### `This is online and offline courses website`
 
