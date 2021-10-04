@@ -2,7 +2,7 @@ import React from 'react'
 import {makeStyles} from '@material-ui/core/styles'
 
 import { Link } from 'react-router-dom';
-import { Button, Typography } from '@material-ui/core';
+import {Typography } from '@material-ui/core';
 const useStyles=makeStyles((theme)=>({
   notfound:{
       width:"80%",
@@ -25,7 +25,7 @@ const useStyles=makeStyles((theme)=>({
       '&:hover': {
        color : '#0069d9',
         
-      },
+      }
 
   }
 

@@ -1,9 +1,8 @@
-import React,{useState,useEffect} from 'react'
-import { Box, Button, Container, Grid,Typography } from '@material-ui/core'
+import React from 'react'
+import { Box, Container, Grid,Typography } from '@material-ui/core'
 import {makeStyles} from '@material-ui/core/styles'
-import Singleservice from '../Home/Singleservice';
 const useStyles=makeStyles((theme)=>({
-  serviceroot:{
+  aboutroot:{
       paddingTop:theme.spacing(7)
   },
   aboutbanner:{
@@ -68,11 +67,11 @@ const useStyles=makeStyles((theme)=>({
 }));
 function About() {
    const classes=useStyles();
-   const [courses,setCourses]=useState([]);
+ 
 
    
     return (
-    <div className={classes.serviceroot}>
+    <div className={classes.aboutroot}>
          <Box className={classes.aboutbanner}>
            <div className={classes.bannertext}>
              
