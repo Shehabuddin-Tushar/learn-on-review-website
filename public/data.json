@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1course",
+        "category": "web ecommerce",
+        "name": "online course on web design",
+        "star": 5,
+        "img": "https://i.postimg.cc/vTYG04b9/pic9.jpg",
+        "calendar":"6 Oct - 6 Nov 2021",
+        "duration":"30hr",
+        "price": 5000
+        
+    },
+    {
+        "id": "2course",
+        "category": "web ecommerce",
+        "name": "web developmnt(php with laravel)",
+        "star": 4,
+        "img": "https://i.postimg.cc/0NS5jgV6/pic1.jpg",
+        "calendar":"15 Oct - 15 jan 2022",
+        "duration":"135hr",
+        "price": 13500
+        
+    },
+    {
+        "id": "3course",
+        "category": "comunnication",
+        "name": "Business comunications",
+        "star": 4,
+        "img": "https://i.postimg.cc/xCSfbsZ6/pic4.jpg",
+        "calendar":"12 Oct - 12 Dec 2021",
+        "duration":"60hr",
+        "price": 15000
+        
+    },
+    {
+        "id": "4course",
+        "category": "seo",
+        "name": "Search engine optimization",
+        "star": 5,
+        "img": "https://i.postimg.cc/0ybygKm0/pic5.jpg",
+        "calendar":"10 Oct - 10 Nov 2021",
+        "duration":"28hr",
+        "price": 4000
+        
+    },
+    {
+        "id": "5course",
+        "category": "frontend design",
+        "name": "Javascript with React js",
+        "star": 3,
+        "img": "https://i.postimg.cc/qRXkcsV4/pic6.png",
+        "calendar":"10 Oct - 10 jan 2022",
+        "duration":"100hr",
+        "price": 4500
+        
+    },
+    {
+        "id": "6course",
+        "category": "Frontend and backend",
+        "name": "Mern stack development",
+        "star": 4,
+        "img": "https://i.postimg.cc/J75njLMZ/pic8.jpg",
+        "calendar":"1 Oct - 30 Dec 2021",
+        "duration":"165hr",
+        "price": 6000
+        
+    },
+    {
+        "id": "7course",
+        "category": "mobile app development",
+        "name": "React Native",
+        "star": 5,
+        "img": "https://i.postimg.cc/6pg5B6fJ/pic2.jpg",
+        "calendar":"10 Oct - 10 Nov 2021",
+        "duration":"45hr",
+        "price": 5000
+        
+    },
+    {
+        "id": "8course",
+        "category": "Networking",
+        "name": "Cisco certified network associate",
+        "star": 2,
+        "img": "https://i.postimg.cc/Wp8Nhww7/pic11.jpg",
+        "calendar":"10 Oct - 10 Jan 2022",
+        "duration":"120hr",
+        "price": 8000
+        
+    },
+    {
+        "id": "9course",
+        "category": "Marketing",
+        "name": "Facebook marketing",
+        "star": 5,
+        "img": "https://i.postimg.cc/QxNMbydP/pic3.jpg",
+        "calendar":"10 Oct - 10 Nov 2021",
+        "duration":"30hr",
+        "price": 4000
+        
+    },
+    {
+        "id": "10course",
+        "category": "video editing",
+        "name": "Youtube video editing",
+        "star": 5,
+        "img": "https://i.postimg.cc/NfNjPky0/pic7.jpg",
+        "calendar":"10 Oct - 10 Nov 2021",
+        "duration":"30hr",
+        "price": 4800
+        
+    },
+    {
+        "id": "11course",
+        "category": "Animation",
+        "name": "Animation with maya",
+        "star": 3,
+        "img": "https://i.postimg.cc/CLKFDnvp/pic12.jpg",
+        "calendar":"10 Oct - 10 Dec 2021",
+        "duration":"105hr",
+        "price": 8220
+        
+    },
+    {
+        "id": "12course",
+        "category": "Graphics",
+        "name": "Graphics design(illustrator)",
+        "star": 4,
+        "img": "https://i.postimg.cc/Wp8Nhww7/pic11.jpg",
+        "calendar":"10 Oct - 10 jan 2022",
+        "duration":"75hr",
+        "price": 4600
+        
+    }
+
+]
